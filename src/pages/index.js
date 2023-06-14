@@ -1,0 +1,1 @@
+//El inicio de la página, foto/video de presentación, información que lleve a las demás páginas
