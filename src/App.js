@@ -1,6 +1,5 @@
 import React from 'react';
 import './App.css';
-
 import Home from './pages'
 import contactUs from './pages/contactUs';
 import ourShoeTrees from './pages/ourShoeTrees';
